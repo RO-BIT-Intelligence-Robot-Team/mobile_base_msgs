@@ -3,8 +3,6 @@
 ########################################
 # Robot Flipper msgs.
 
-Header  Header
-
 bool flipper_auto
 
 float32[4] flipper_target_position
