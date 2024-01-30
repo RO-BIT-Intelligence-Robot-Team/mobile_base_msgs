@@ -17,6 +17,7 @@ add_message_files(
   RobotCommunication.msg
   Flipper.msg
   Manipulator.msg
+  STMtx.msg
 )
 
 # Generate messages

@@ -4,7 +4,6 @@
 # Robot Control msgs.
 
 Header  Header
-float32[] joint
 
 Flipper flipper_control
 

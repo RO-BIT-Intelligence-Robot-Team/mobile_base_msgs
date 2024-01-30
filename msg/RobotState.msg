@@ -5,13 +5,11 @@
 
 Header  Header
 
-int32 gripper
-float32[5] joint
-
 bool initTrigger
 bool init_done
 
 Flipper flipper_state
+Manipulator manipulator_state
 
 float32 L_RPM
 float32 R_RPM
