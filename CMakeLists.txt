@@ -18,6 +18,10 @@ add_message_files(
   Flipper.msg
   Manipulator.msg
   STMtx.msg
+  dynamixel_control.msg
+  dynamixel_status.msg
+  manipulator_control.msg
+  manipulator_status.msg
 )
 
 # Generate messages
