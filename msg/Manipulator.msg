@@ -3,8 +3,6 @@
 ########################################
 # Robot Manipulator msgs.
 
-Header Header
-
 float32[7] dynamixel_target_position
 float32[7] dynamixel_current_position
 float32[7] dynamixel_target_speed
