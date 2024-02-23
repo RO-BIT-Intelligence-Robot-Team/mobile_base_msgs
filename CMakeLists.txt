@@ -22,6 +22,7 @@ add_message_files(
   dynamixel_status.msg
   manipulator_control.msg
   manipulator_status.msg
+  mani_vision.msg
 )
 
 # Generate messages
